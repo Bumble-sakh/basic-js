@@ -42,7 +42,7 @@ function getSeason(date) {
       break
     case 8:
     case 9:
-    case 70:
+    case 10:
       return 'autumn'
       break
     default:
